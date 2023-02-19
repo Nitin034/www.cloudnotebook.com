@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Nitin03.github.io/www.cloudnotebook.com/static/css/main.48c09e5f.css",
+    "main.js": "/Nitin03.github.io/www.cloudnotebook.com/static/js/main.83d856a1.js",
+    "static/media/Link.png": "/Nitin03.github.io/www.cloudnotebook.com/static/media/Link.3c73008510bc59a36e80.png",
+    "static/media/Insta.png": "/Nitin03.github.io/www.cloudnotebook.com/static/media/Insta.286b43f6a1a2529b988e.png",
+    "static/media/Email.png": "/Nitin03.github.io/www.cloudnotebook.com/static/media/Email.70d48c594a827ac55f22.png",
+    "static/media/GitHub.jpg.png": "/Nitin03.github.io/www.cloudnotebook.com/static/media/GitHub.jpg.7d2355f44f178e8edbf8.png",
+    "static/media/Screenshot (95).png": "/Nitin03.github.io/www.cloudnotebook.com/static/media/Screenshot (95).dde1b961f5fbff312c6f.png",
+    "index.html": "/Nitin03.github.io/www.cloudnotebook.com/index.html",
+    "main.48c09e5f.css.map": "/Nitin03.github.io/www.cloudnotebook.com/static/css/main.48c09e5f.css.map",
+    "main.83d856a1.js.map": "/Nitin03.github.io/www.cloudnotebook.com/static/js/main.83d856a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c09e5f.css",
+    "static/js/main.83d856a1.js"
+  ]
+}
